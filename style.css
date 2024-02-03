@@ -1,0 +1,75 @@
+body{
+    background-color: #6ff155f3;
+}
+main{
+    margin: 20px;
+}
+ul{
+    font-size: 18px;
+}
+.navbar{
+    padding: 20px;
+    font-size: 25px;
+    display: flex;
+    align-items: center;
+}
+
+.navbar img{
+    width: 150px;
+    margin-right: 20px;
+}
+
+.navbar > *{
+    padding: 10px;
+}
+h1{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+p{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 21px;
+}
+#building{
+    width: 900px;
+}
+#landscaping{
+    width: 900px;
+}
+#pic1{
+    border: black 5px outset;
+    border-radius: 20px;
+    position: absolute;
+    left: 1100px;
+    bottom: -390px;
+    width: 460px;
+}
+#pic2{
+    border: black 5px outset;
+    border-radius: 20px;
+    position: absolute;
+    left: 1100px;
+    bottom: 160px;
+    width: 460px;
+}
+#pic3{
+    border: black 5px outset;
+    border-radius: 20px;
+    position: absolute;
+    left: 1100px;
+    bottom: -530px;
+    width: 460px;
+}
+#pic4{
+    border: black 5px outset;
+    border-radius: 20px;
+    position: absolute;
+    left: 1100px;
+    bottom: -30px;
+    width: 460px;
+}
+#footer{
+    background-color:#28d731;
+    border-style: solid;
+    border-width: 3px;
+    border-radius: 10px;
+}
